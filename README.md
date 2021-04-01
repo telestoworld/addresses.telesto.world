@@ -1,1 +1,1 @@
-# addresses.telesto.world
+# contracts.telesto.world
